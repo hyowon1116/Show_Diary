@@ -1,6 +1,7 @@
 # Show Diary
 ### 공연 데이터 관리 프로그램
 ---
+발표 자료: https://drive.google.com/file/d/1rtuCFmCXnsx7y7C3Av80zJe6IxtFkdHz/view?usp=sharing
 1. 개요<br>
 프로그램명 <Show Diary>는 공연을 의미하는 'show'와 일기를 의미하는 'diary'의 합성어이다. 공연을 봤을 때나 보고 싶은 공연이 생겼을 때 그 공연에 대해 기록할 수 있고, 기록된 내용을 읽어보면 언제 어디서 어떤 공연을 보았는지 혹은 보고 싶었는지를 떠올릴 수 있다. 이러한 점에서 본 프로그램이 일기와 비슷하다고 느꼈고, 'Show Diary'라는 이름을 짓게 되었다.<br>
 공연 소비자들이 공연에 대한 정보를 얻을 때, 홍보성 정보에 가려져서 유명하지 않지
